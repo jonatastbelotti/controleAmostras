@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="65" updatableVersionMin="" updatableVersionMax="" fileName="controleAmostras_windows-x64_1_0_0.zip" newVersion="1.0.0" newMediaFileId="65" fileSize="503907" bundledJre="" archive="true" singleBundle="false">
+    <comment language="pt_BR" />
+  </entry>
+</updateDescriptor>

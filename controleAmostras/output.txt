@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+65	windows	Windows Archive	C:\Users\jonat\Desktop\controleAmostras\controleAmostras\controleAmostras_windows-x64_1_0_0.zip
